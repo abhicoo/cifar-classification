@@ -1,4 +1,5 @@
 .DS_Store
 **/nearest-neighbour/cifar-10-batches-py/
 **/nearest-neighbour/__pycache__/
-
+**/svm/cifar-10-batches-py/
+**/svm/__pycache__/
