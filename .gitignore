@@ -3,3 +3,5 @@
 **/nearest-neighbour/__pycache__/
 **/svm/cifar-10-batches-py/
 **/svm/__pycache__/
+**/softmax/__pycache__/
+**/softmax/cifar-10-batches-py/
